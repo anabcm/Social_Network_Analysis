@@ -1,0 +1,13 @@
+Requerimientos
+Postgres
+json
+csv
+psycopg2
+networkx 
+import 
+matplotlib
+json_graph
+igraph 
+
+
+
